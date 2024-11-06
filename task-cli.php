@@ -1,5 +1,4 @@
 <?php
-// task-cli.php
 require_once 'TaskManager.php';
 
 function printUsage()
