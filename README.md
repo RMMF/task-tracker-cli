@@ -21,7 +21,7 @@ A simple Command Line Interface (CLI) tool to track and manage tasks. This proje
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/RMMF/task-tracker-cli.git
+git clone https://github.com/rui95fer/task-tracker-cli.git
 cd task-tracker-cli
 ```
 
